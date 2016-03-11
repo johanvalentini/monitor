@@ -1,0 +1,16 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "A simple system monitor",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": {"name": "Johan Valentini", "email": "johan@johanvalentini.co"},
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "os-utils": "0.0.14",
+    "current-processes": "^0.2.1",
+  }
+}
