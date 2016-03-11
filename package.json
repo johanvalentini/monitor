@@ -11,6 +11,6 @@
   "dependencies": {
     "koa": "^1.1.2",
     "os-utils": "0.0.14",
-    "current-processes": "^0.2.1",
+    "current-processes": "^0.2.1"
   }
 }
