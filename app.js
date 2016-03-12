@@ -111,4 +111,4 @@ api.use(function *(){
 let monitor = new Monitor([new CPU(),new Memory(), new Processes()]);
 monitor.start();
 
-api.listen(3000);
+api.listen(50000);
